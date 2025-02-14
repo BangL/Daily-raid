@@ -3,7 +3,7 @@
     name="Daily raid"
     author="Punished Bernadetta &amp; BangL"
     description="Daily challenges that pay gold"
-    version="1.17.1"
+    version="1.17.2"
     color="191 0 73">
     <hooks>
         <!--Setting up some helpful functions-->
